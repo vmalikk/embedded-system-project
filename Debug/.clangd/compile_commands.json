@@ -1,0 +1,102 @@
+[
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/ADC.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/Display.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/IR.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/app.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/buttons.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/clocks.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/init.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/interrupts.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/lcd.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/led.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/main.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/messages.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/motors.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/ports.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/serial.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/stateMachine.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/switch.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/system.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/timersB0.c"
+   },
+   {
+      "directory" : "/Users/vikram/workspace_ccstheia/project8 final/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2030/ccs/ccs_base/msp430/include\" -I\"/Users/vikram/workspace_ccstheia/project8 final\" -I\"/Applications/ti/ccs2030/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2355__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/vikram/workspace_ccstheia/project8 final/uart.c"
+   }
+]
